@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rHVP13Zd0It/M/aC8jRIoe98aRSZW6SxbQLCW0cjGguvb6KD7X6medW6tU/PCU0EXDUL3sjdjqf9sZz/5XyPTw==",
+  "dgSpecHash": "0wXJNRvUaVok6U+W+sgxS9Mb707ZdqEag/yvKuR1IzOgjhwOSaASltmYPN/4b8khktk+mR6VTXQf89zjgDc8BA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SYS\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\SYS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

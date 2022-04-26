@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WjxRwVmXZ8d7mur2ou9QKHrsg85tDSWnApLTk7heqF8=",
+  "Hash": "4G5aQmyCStiVcvJQZgIC67y73ETvfRmrl13QFP2fLgg=",
   "Source": "Tercer examen_LP3",
   "BasePath": "_content/Tercer examen_LP3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tercer examen_LP3\\wwwroot",
       "Source": "Tercer examen_LP3",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tercer examen_LP3.styles.css",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tercer examen_LP3.styles.css",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "Tercer examen_LP3.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tercer examen_LP3.styles.css"
+      "OriginalItemSpec": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Tercer examen_LP3.styles.css"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tercer examen_LP3.bundle.scp.css",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tercer examen_LP3.bundle.scp.css",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "Tercer examen_LP3.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tercer examen_LP3.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tercer examen_LP3.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\css\\site.css",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\favicon.ico",
       "SourceId": "Tercer examen_LP3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Tercer examen_LP3\\wwwroot\\",
       "BasePath": "_content/Tercer examen_LP3",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

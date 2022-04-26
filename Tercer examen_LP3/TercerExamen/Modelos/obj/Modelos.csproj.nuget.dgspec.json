@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj": {}
+    "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj",
+        "projectPath": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Modelos\\Modelos.csproj",
         "packagesPath": "C:\\Users\\SYS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SYS\\Desktop\\Tercer examen_LP3\\TercerExamen\\Modelos\\obj\\",
+        "outputPath": "C:\\Users\\SYS\\Desktop\\Examen de lenguaje3\\Examen3_Lenguaje\\Tercer examen_LP3\\TercerExamen\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SYS\\AppData\\Roaming\\NuGet\\NuGet.Config",
