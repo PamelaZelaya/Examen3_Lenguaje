@@ -1,0 +1,12 @@
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\Users\SYS\Desktop\Tercer examen_LP3\TercerExamen\Modelos\obj\Debug\net6.0\ref\Modelos.dll

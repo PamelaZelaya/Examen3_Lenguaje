@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tercer examen_LP3", "Tercer examen_LP3\Tercer examen_LP3.csproj", "{58DF3C5B-57FD-492F-BBF7-A9A377BA6894}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "Modelos\Modelos.csproj", "{D121EBA6-F513-457E-901C-185629E959DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{C3C41F87-1F11-4D0D-A507-89F6CE6EE9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DF3C5B-57FD-492F-BBF7-A9A377BA6894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DF3C5B-57FD-492F-BBF7-A9A377BA6894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DF3C5B-57FD-492F-BBF7-A9A377BA6894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DF3C5B-57FD-492F-BBF7-A9A377BA6894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D121EBA6-F513-457E-901C-185629E959DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D121EBA6-F513-457E-901C-185629E959DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D121EBA6-F513-457E-901C-185629E959DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D121EBA6-F513-457E-901C-185629E959DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C41F87-1F11-4D0D-A507-89F6CE6EE9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C41F87-1F11-4D0D-A507-89F6CE6EE9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C41F87-1F11-4D0D-A507-89F6CE6EE9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C41F87-1F11-4D0D-A507-89F6CE6EE9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED454E7-D95B-4647-9B0F-513CB1497B21}
+	EndGlobalSection
+EndGlobal
